@@ -14,11 +14,8 @@
   "license": "MIT Licence",
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "dev.syoritohatsuki.tridentexample.client.TridentExampleModClient"
-    ],
     "main": [
-      "dev.syoritohatsuki.tridentexample.TridentExampleMod"
+      "dev.syoritohatsuki.itemcomponenttimer.ItemComponentTimer"
     ]
   },
   "mixins": [

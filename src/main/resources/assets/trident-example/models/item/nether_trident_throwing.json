@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/trident_throwing",
-  "textures": {
-    "particle": "trident-example:item/nether_trident"
-  }
-}
